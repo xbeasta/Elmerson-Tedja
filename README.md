@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/>
+
 <p>
   
 Hey there! I am **Elmerson**, currently a Full Stack Android Developer Intern at Checago Coffee. I'm interested and addicted to anything Computer Science. I also like to play some badminton when I'm off the computer 🏸
