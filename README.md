@@ -4,16 +4,16 @@
   
 Hey there! I am **Elmerson**, currently a Full Stack Android Developer Intern at Checago Coffee. I'm interested and addicted to anything Computer Science. I also like to play some badminton when I'm off the computer 🏸
 
-<summary>More about me</summary>
+More about me
   
-- 🚶🏻‍♂️ I'm on a journey to exploring the world of Computer Science field
+🚶🏻‍♂️ I'm on a journey to exploring the world of Computer Science field
   
-- 🤓 Constantly learning new languages
+🤓 Constantly learning new languages
   
-- 🤝 Always open to collaboration opportunities to work in a project together
+🤝 Always open to collaboration opportunities to work in a project together
   
-- 🕵️ Visit my LinkedIn to see more details of me <a href="https://www.linkedin.com/in/elmerson-tedja/">https://www.linkedin.com/in/elmerson-tedja/</a>
+🕵️ Visit my LinkedIn to see more details of me <a href="https://www.linkedin.com/in/elmerson-tedja/">https://www.linkedin.com/in/elmerson-tedja/</a>
   
-- 💬 Reach out to me at **etedja2@uic.edu**
+💬 Reach out to me at **etedja2@uic.edu**
   
 </p>
