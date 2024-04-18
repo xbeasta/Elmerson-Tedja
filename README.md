@@ -5,7 +5,6 @@
 Hey there! I am **Elmerson**, currently a Full Stack Android Developer Intern at Checago Coffee. I'm interested and addicted to anything Computer Science. I also like to play some badminton when I'm off the computer 🏸
 
 More about me
-  
 🚶🏻‍♂️ I'm on a journey to exploring the world of Computer Science field
   
 🤓 Constantly learning new languages
