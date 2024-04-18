@@ -1,4 +1,4 @@
-<img src="https://github.com/xbeasta/xbeasta/blob/5b74bcade7f9e730e1793661dd676dbe8a32930c/images/BackToBack.jpg" width="80%" height="auto"/>
+<img src="https://github.com/xbeasta/xbeasta/blob/1504345c8049c41e9842f0d00c75e7144c1a0418/images/SideToSide.jpg" width="100%" height="auto"/>
 
 <p>
   
