@@ -14,7 +14,7 @@ Hey there! I am **Elmerson**, currently a Full Stack Android Developer Intern at
   
 - 🤝 Always open to collaboration opportunities to work in a project together
   
-- 🕵️ Visit my LinkedIn to see more details of me [miaxu.co](https://www.linkedin.com/in/elmerson-tedja/)
+- 🕵️ Visit my LinkedIn to see more details of me <a href="https://www.linkedin.com/in/elmerson-tedja/">https://www.linkedin.com/in/elmerson-tedja/</a>
   
 - 💬 Reach out to me at **etedja2@uic.edu**
   
